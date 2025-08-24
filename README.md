@@ -1,7 +1,7 @@
 ## Hi there 👋
 
 
-[![profile/qkrckdgus9527](http://mazassumnida.wtf/api/v2/generate_badge?boj={handle})](https://solved.ac/{handle})  
+[![profile/qkrckdgus9527](http://mazassumnida.wtf/api/v2/generate_badge?boj=qkrckdgus9527)](https://solved.ac/qkrckdgus9527)
 
 <!--
 **shining-b-02/shining-b-02** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
