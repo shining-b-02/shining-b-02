@@ -3,6 +3,10 @@
 
 [![profile/qkrckdgus9527](http://mazassumnida.wtf/api/v2/generate_badge?boj=qkrckdgus9527)](https://solved.ac/qkrckdgus9527)
 
+
+# sk_ai_data_analysis
+<img width="1480" height="1060" alt="mySUNI-BADGE-CERTIFICATE-박창현-2024 08 01" src="https://github.com/user-attachments/assets/dba08530-b527-4d97-a7d4-b44119202606" />
+
 <!--
 **shining-b-02/shining-b-02** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
