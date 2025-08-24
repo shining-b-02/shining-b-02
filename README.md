@@ -10,7 +10,6 @@
   
 
 
-📚 Achievements & Activities
 
 ### Baekjoon
 [![profile/qkrckdgus9527](http://mazassumnida.wtf/api/v2/generate_badge?boj=qkrckdgus9527)](https://solved.ac/qkrckdgus9527)
