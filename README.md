@@ -1,6 +1,8 @@
 ## Hi there 👋 I'm changhyeon.
 
-- 🏫 Soongsil Univ. Department of computer science & engineering 21
+- parexel korea, Part time IT Intern (an American contract research organization)  [JAN 2026 ~ ]
+
+- 🏫 Soongsil Univ. Department of computer science & engineering 21 [MAR 2021 ~ ]
  
 - 📫 How to reach me:
   changhyeonb533@gmail.com
