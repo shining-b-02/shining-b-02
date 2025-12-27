@@ -1,6 +1,6 @@
 ## Hi there 👋 I'm changhyeon.
 
-- 🧑‍💻 Parexel korea, Part time IT Intern (parexel is an American contract research organization) [JAN 2026 ~ ]
+- 🧑‍💻 Parexel korea, IT Support Technician Intern (Support Windows 11 deployment project progress) [JAN 2026 ~ ]
 
 - 🏫 Soongsil Univ. Department of computer science & engineering 21 [MAR 2021 ~ ]
  
