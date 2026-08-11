@@ -1,4 +1,4 @@
-## Hi there 👋 I'm changhyeon.
+## Hi there 👋 I'm changhyun.
 
 - 🏫 🇺🇸 Completed an intensive **Artificial Intelligence & Data Science** program at USC Viterbi School of Engineering. [JULY 2026] 
 
