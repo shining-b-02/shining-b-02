@@ -1,7 +1,6 @@
 ## Hi there 👋 I'm changhyeon.
 
-- 🏫 🇺🇸 SW Pioneer Program at USC
-Completed an intensive **Artificial Intelligence & Data Science** program at USC Viterbi School of Engineering. [JULY 2026] 
+- 🏫 🇺🇸 Completed an intensive **Artificial Intelligence & Data Science** program at USC Viterbi School of Engineering. [JULY 2026] 
 
 - 🧑‍💻 Parexel korea, IT Support Technician Intern (Support Windows 11 deployment project progress) [JAN 2026 ~ JUN 2026]
 
